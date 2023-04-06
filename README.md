@@ -1,2 +1,2 @@
 # MuGeVI
-The showcase of MuGeVI for NIME2023.
+We propose a computer vision-based interactive multi-functional virtual digital musical instrument without dedicated hardware, MuGeVI, which allows users to perform, compose or control music by various hand gestures.
