@@ -1,5 +1,5 @@
 # Overview
-We propose a computer vision-based interactive multi-functional virtual digital musical instrument without dedicated hardware, MuGeVI, which allows users to perform, compose or control music by various hand gestures.
+We propose a computer vision-based interactive multi-functional digital virtual musical instrument without dedicated hardware, MuGeVI, which allows users to perform, compose or control music by various hand gestures.
 # Multi-functions
 ## Performance mode
 Play various notes by adjusting the position of hands and completing special gestures 
