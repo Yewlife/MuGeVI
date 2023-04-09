@@ -3,6 +3,7 @@ We propose a computer vision-based interactive multi-functional digital virtual 
 # Multi-functions
 ## Performance mode
 Play various notes by adjusting the position of hands and completing special gestures.
+<video src="https://www.bilibili.com/video/BV1UL41127Vd/?vd_source=e7e1b1d57f04426a17256133761f5542"></video>
 ## Accompaniment mode
 Control the scale degree and textures to accompany the singer or player in real time.
 ## Control mode
