@@ -28,6 +28,7 @@ Provide audio effects for instruments such as electric guitars in real time.
 MuGeVI first acquires images of the player continuously and displays them in real-time, then detects the images using the neural network models to obtain the locations of 21 hand key points. Next MuGeVI will obtain the hand position and gesture based on these key points, map them to the corresponding music information based on the current instrument mode, package the data using the Open Sound Control (OSC) protocol and transmit them to the Max/MSP program. Finally MuGeVI uses the corresponding modules in Max/MSP to implement various functions.
 
 <img src="https://github.com/Yewlife/MuGeVI/blob/main/pictures/system_architecture.png?raw=true">
+
 # Innovations
 1. No need to use sensors, easy to popularize and apply;
 2. Support for both MIDI and audio;
