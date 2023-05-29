@@ -42,5 +42,5 @@ Scores:
 4 points: Comparatively  agree / satisfied 
 3 points: Generally agree / satisfied 
 2 points: Disagree / Dissatisfied 
-1 points: Very Disagree / Dissatisfied![image](https://github.com/Yewlife/MuGeVI/assets/51875183/b4eea11b-f302-4bd2-9ded-ce1d582f5c42)
+1 points: Very Disagree / Dissatisfied
 Results:
