@@ -38,9 +38,9 @@ MuGeVI first acquires images of the player continuously and displays them in rea
 # User Feedback
 There are music professionals, music enthusiasts, amateurs and music technology researchers involved in the evaluation experiment.
 Scores:
-5 points -> Strongly agree/satisfied  
-4 points -> Comparatively  agree / satisfied 
-3 points -> Generally agree / satisfied 
-2 points -> Disagree / Dissatisfied 
-1 points -> Very Disagree / Dissatisfied![image](https://github.com/Yewlife/MuGeVI/assets/51875183/b4eea11b-f302-4bd2-9ded-ce1d582f5c42)
+5 points: Strongly agree/satisfied  
+4 points: Comparatively  agree / satisfied 
+3 points: Generally agree / satisfied 
+2 points: Disagree / Dissatisfied 
+1 points: Very Disagree / Dissatisfied![image](https://github.com/Yewlife/MuGeVI/assets/51875183/b4eea11b-f302-4bd2-9ded-ce1d582f5c42)
 Results:
