@@ -219,4 +219,19 @@ Results:
         2. You can write certain instructions, otherwise users do not know how to use each function, please refer to the instructions of some software.
         3. Is now four features in four separate demos? You can integrate four features into a demo, so that you can synchronize some of the music effects, and it will be impressive.</td>
     </tr>
+    <tr align="center">
+        <td>10</td>
+        <td>Wang</td>
+        <td>Electronic Music Composition</td>
+        <td>4</td>
+        <td>5</td>
+        <td>5</td>
+        <td>4</td>
+        <td>5</td>
+        <td>5</td>
+        <td>5</td>
+        <td>4.714</td>
+        <td>Quite interesting</td>
+        <td>Develop software and hardware for independent use.</td>
+    </tr>
 </table>
